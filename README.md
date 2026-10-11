@@ -76,3 +76,13 @@ I love making cool open-source websites and tools.
   - **Web engineering:** WordPress VIP development, Next.js projects, REST/GraphQL integrations  
 - *Frequently rescuing spreadsheets from chaos*  
 - *Some repos are private. Happy to share sanitized demos or architecture walk-throughs*  
+
+## License
+
+This project is licensed under [GNU AGPLv3 only](LICENSE) (`AGPL-3.0-only`).
+See [NOTICE](NOTICE) for copyright information.
+
+You can use, change, and sell copies under the license terms.
+If you distribute covered code, provide its source under the same license.
+If you change the project and let users access it over a network,
+offer those users the source of your version.
