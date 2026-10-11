@@ -9,7 +9,7 @@ DB Managment - Dat Apps - Events Infrastructure - Custom Solutions
 
 ### 🧑‍💻 Personal Work  
 I love making cool open-source websites and tools.  
-[**Check them out on my website**](https://guidrezza.com)  
+[**Check them out on my website**](https://nickdrezza.com)  
 
 ### 📫 Let's Connect  
 `guidrezza@gmail.com`  
